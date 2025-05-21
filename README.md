@@ -1,6 +1,6 @@
 - Hi, I’m @devin-vyain
 - I’m interested in video games, data analysis, simple apps, and spaceflight
-- I’m currently learning Django framework
+- I’m currently learning AWS data pipelines
 - I’m looking to collaborate on NumPy, Pandas, or other data analysis tools
 
 <!---
